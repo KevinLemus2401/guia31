@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejemplo2a.css" ?>
+<!-- ejemplo2.xml  LF18010 -->
+<fichero>
+  <ficha carnet="LF18010" anioingreso="2018">
+    <nombre>Kevin</nombre>
+    <apellido>Lemus</apellido>
+    <telefono>75941341</telefono>
+    <email>lf18010@ues.edu.sv</email>
+    <url>xml.lf18010.tpi</url>
+  </ficha>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  <pais nombre="El Salvador">
+    <departamento id="1" nombre="San Salvador">
+      <cabecera>San Salvador</cabecera>
+      <habitantes>275,100</habitantes>
+      <altura> MSNM</altura>
+    </departamento>
+    <departamento id="2" nombre="Chalatenango" codigotel="2393" codpos="CP 1301">
+      <cabecera>Chalatenango</cabecera>
+      <habitantes>1,700,000</habitantes>
+      <altura>400 MSNM</altura>
+      <idiomas>Espaniol</idiomas>
+    </departamento>
+    <moneda>Dolar</moneda>
+  </pais>
+</fichero>

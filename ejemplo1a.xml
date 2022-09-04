@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejemplo1a.css" ?>
+<!-- ejemplo1a.xml  LF18010 -->
+<ficheroa>
+  <ficha carnet="LF18010" anioingreso="2018">
+    <nombre>Kevin</nombre>
+    <apellido>Lemus</apellido>
+    <telefono>75941341</telefono>
+    <email>lf18010@ues.edu.sv</email>
+    <url>xml.lf18010.tpi</url>
+  </ficha>
+</ficheroa>

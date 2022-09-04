@@ -1,0 +1,32 @@
+{
+	"fichero":{
+		"ficha":[
+			{
+				"@carnet":"LF18010",
+				"@anioingreso":"2018",
+				"nombre":"Kevin",
+				"apellido":"Lemus",
+				"telefono":"75941341",
+				"email":"lf18010@ues.edu.sv",
+				"url":"xml.lf18010.tpi"
+			},
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			}
+		],
+		"pais":{
+			"@nombre":"El Salvador",
+			"departamento":{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			}
+		}
+	}
+}

@@ -1,0 +1,41 @@
+/* ejemplo1.css   LF18010  */
+fichero {
+	background-color:rgb(0, 0, 0);
+	}
+        
+nombre {
+	color:rgb(255, 255, 255); display:inline;
+	}
+
+apellido {
+	color:rgb(255, 0, 208); display:inline;
+	}
+telefono {
+	color:rgb(16, 31, 142); display:inline;
+	}
+email {
+	color:rgb(0, 255, 34);font-size:1cm; display:none;
+	}
+url {
+	color: blueviolet; display:inline;
+	}
+ficha {
+    color:white; display:inline;
+    }
+pais {
+    color:red; display:inline;
+    }
+
+departamento {
+    color:cyan; display:inline;
+    }
+
+cabecera {
+    color:rgb(255, 221, 0); display:inline;
+    }
+
+habitantes{
+    color:rgb(0, 255, 102); display:inline;
+    }
+
+            

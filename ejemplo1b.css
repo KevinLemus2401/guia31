@@ -1,0 +1,30 @@
+/* ejemplo1.css   LF18010  */
+ficheroa {
+	background-color:green;
+	}
+        
+nombre {
+	color:white; display:inline;
+	}
+
+apellido {
+	color:yellow; display:inline;
+	}
+telefono {
+	color:rgb(16, 31, 142); display:inline;
+	}
+email {
+	color:yellow;font-size:1cm; display:none;
+	}
+url {
+	color:blue; display:inline;
+	}
+dui {
+    color:white; display:inline;
+    }
+iss {
+    color:red; display:inline;
+    }
+afp {
+    color:red; display:inline;
+    }
